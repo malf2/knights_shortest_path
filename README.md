@@ -17,6 +17,6 @@ The easiest way to execute this program is to run the  unix executable file `kni
 Alternatively, clone this project and execute `Makefile`. This will install the dependencies and run tests. Open the python file `main.py`.
 
 ## Assumptions and Decisions
-The Djikstra's algorithm was chosen for being one of the most famous and successful algorithms for finding the  shortest path between two points in a Graph for a single source. Another reason is because the Knight's path in a chess board can be constructed as a graph when considering the possible knight moves as the neighbours of the knight's current position.
+The Djikstra's algorithm was chosen for being one of the most famous and successful algorithms for finding the  shortest path between two points in a Graph for a single source. Another reason is because the Knight's path in a chess board can be constructed as a graph when considering the possible knight moves as the neighbour nodes of the knight's current position.
 
 
